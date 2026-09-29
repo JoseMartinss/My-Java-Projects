@@ -22,31 +22,6 @@ Este repositório funciona como o meu diário de bordo e portfólio no ecossiste
 
 ---
 
-## 🗂️ Estrutura do Repositório
-
-Abaixo está a organização das pastas/projetos contidos neste repositório:
-
-```text
-├── 📂 src/
-│   ├── 📂 logica-e-sintaxe/    # Exercícios básicos, estruturas condicionais e de repetição
-│   ├── 📂 poo-conceitos/       # Exemplos de Classes, Interfaces, Herança e Polimorfismo
-│   ├── 📂 estrutura-de-dados/  # Listas, Pilhas, Filas, Algoritmos de Busca/Ordenação
-│   └── 📂 projetos/            # Aplicações menores e desafios práticos completos
-└── README.md
-```
-
----
-
-## 🚀 Projetos & Destaques
-
-| Projeto / Módulo | Descrição | Tópicos Chave |
-| :--- | :--- | :--- |
-| **Sintaxe Básica** | Exercícios iniciais com tipos de dados, operadores e estruturas de controle. | `Scanner`, `If/Else`, `Loops` |
-| **Desafios POO** | Exercícios práticos aplicando os pilares da Orientação a Objetos. | `Classes`, `@Override`, `Interfaces` |
-| **Tratamento de Exceções** | Práticas com manipulação segura de erros e exceções personalizadas. | `Try-Catch`, `Exceptions` |
-
----
-
 ## 🛠️ Tecnologias e Ferramentas Usadas
 
 - **Linguagem:** Java (JDK 17+)
@@ -87,10 +62,8 @@ Certifique-se de ter instalado em sua máquina:
 
 ## 📬 Contato
 
-Gostou do conteúdo ou quer trocar uma ideia sobre Java e desenvolvimento de software? 
-
-- **GitHub:** [@SEU-USUARIO](https://github.com/SEU-USUARIO)
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/SEU-PERFIL)
+Se gostou do conteúdo ou quer trocar uma ideia sobre programação. se conecta comigo:
+- **LinkedIn:** [José Martins](www.linkedin.com/in/josé-martins-dev)
 
 ---
 
