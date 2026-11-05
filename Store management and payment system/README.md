@@ -1,18 +1,54 @@
-## Getting Started
+# 🛒 Sistema Gestão de Pedidos e Pagamentos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
 
-## Folder Structure
+Projeto em Java desenvolvido para gerenciar pedidos e formas de pagamento da loja virtual **Mega Eletro**, aplicando conceitos fundamentais de Programação Orientada a Objetos (POO).
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Modelar um sistema de vendas com suporte a múltiplas formas de pagamento (Cartão de Crédito, Pix e Boleto), garantindo baixo acoplamento e reutilização de código através de **Interfaces**, **Polimorfismo**, **Herança** e **Encapsulamento**.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Tecnologias e Conceitos Utilizados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* **Linguagem:** Java
+* **Conceitos de POO:**
+  * Interfaces (`FormaPagamento`, `Parcelavel`, `Estornavel`)
+  * Polimorfismo Dinâmico e Desacoplamento via `instanceof`
+  * Enumerações (`StatusPedido`)
+  * Relações de Composição e Agregação
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📌 Status do Projeto
+
+> 🚧 **Em andamento:**
+
+
+
+
+## -- ENG VERSION --
+
+
+
+# 🛒 Order and Payment Management System
+
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+
+A Java project developed to manage orders and payment methods for the **Mega Eletro** online store, applying fundamental Object-Oriented Programming (OOP) concepts.
+
+## 🎯 Objective
+
+Model a sales system with support for multiple payment methods (Credit Card, Pix, and Bank Slip/Boleto), ensuring low coupling and code reusability through **Interfaces**, **Polymorphism**, **Inheritance**, and **Encapsulation**.
+
+## 🛠️ Technologies and Concepts Used
+
+* **Language:** Java
+* **OOP Concepts:**
+  * Interfaces (`FormaPagamento`, `Parcelavel`, `Estornavel`)
+  * Dynamic Polymorphism and Decoupling via `instanceof`
+  * Enumerations (`StatusPedido`)
+  * Composition and Aggregation Relationships
+
+## 📌 Project Status
+
+> 🚧 **In Progress:** 
